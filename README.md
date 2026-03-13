@@ -1,2 +1,36 @@
 # Paper_S_RSM_2026
-Experiments for SS-RSVM algorithm
+
+This repository contains the experimental notebooks used for the SS-RSVM algorithm.
+
+## Repository Structure
+
+- `src/` : Python notebooks containing the experiments
+- `images/` : Figures used in the paper
+
+## Notebooks
+
+- `ss_rsvm_breast_cancer.ipynb`  
+  Experiment on the Breast Cancer dataset.
+
+- `ss_rsvm_spambase_email.ipynb`  
+  Experiment on the Spambase email dataset.
+
+- `ss_svm_n_times.ipynb`  
+  Runs the SVM experiment multiple times to evaluate average performance.
+
+## Runtime Notes (Google Colab)
+
+The notebooks were executed on Google Colab.
+
+Approximate running times:
+
+- `ss_rsvm_breast_cancer.ipynb`  
+  Runtime: ~1 minute
+
+- `ss_rsvm_spambase_email.ipynb`  
+  Runtime: ~5–6 minutes
+
+- `ss_svm_n_times.ipynb`  
+  Runtime: ~80 minutes depending on the number of iterations.
+
+Note: `ss_svm_n_times.ipynb` may take significantly longer to run because the experiment is executed 100 times to compute the average performance of the model.
