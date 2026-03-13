@@ -4,8 +4,25 @@ This repository contains the experimental notebooks used for the SS-RSVM algorit
 
 ## Repository Structure
 
-- `src/` : Python notebooks containing the experiments
-- `images/` : Figures used in the paper
+```
+Paper_S_RSM_2026
+│
+├── images/                 # Figures used in the paper
+│   ├── figure1.pdf
+│   ├── figure2.pdf
+│   ├── figure3.pdf
+│   └── figure4.pdf
+│
+├── src/                    # Experiment notebooks
+│   ├── ss_rsvm_breast_cancer.ipynb
+│   ├── ss_rsvm_spambase_email.ipynb
+│   └── ss_svm_n_times.ipynb
+│
+├── README.md               # Project description
+├── LICENSE                 # MIT License
+└── .gitignore              # Ignored files
+```
+
 
 ## Notebooks
 
