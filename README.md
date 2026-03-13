@@ -56,3 +56,15 @@ Approximate running times:
   Runtime: ~80 minutes depending on the number of iterations.
 
 Note: `ss_svm_n_times.ipynb` may take significantly longer to run because the experiment is executed 100 times to compute the average performance of the model.
+
+
+
+## Environment Setup
+
+Install the required Python packages:
+
+```bash
+pip install -r requirements.txt
+```
+
+```md
