@@ -8,10 +8,10 @@ This repository contains the experimental notebooks used for the SS-RSVM algorit
 Paper_S_RSM_2026
 │
 ├── images/                 # Figures used in the paper
-│   ├── figure1.pdf
-│   ├── figure2.pdf
-│   ├── figure3.pdf
-│   └── figure4.pdf
+│   ├── screeningrate_cancer.pdf
+│   ├── time_cancer.pdf
+│   ├── screeningrate_spam.pdf
+│   └── time_spam.pdf
 │
 ├── src/                    # Experiment notebooks
 │   ├── ss_rsvm_breast_cancer.ipynb
