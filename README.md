@@ -13,10 +13,15 @@ Paper_S_RSM_2026
 │   ├── screeningrate_spam.pdf
 │   └── time_spam.pdf
 │
-├── src/                    # Experiment notebooks
-│   ├── ss_rsvm_breast_cancer.ipynb
-│   ├── ss_rsvm_spambase_email.ipynb
-│   └── ss_svm_n_times.ipynb
+├── src/                    
+│   ├── notebooks          # Experiment notebooks
+│   │   ├── ss_rsvm_breast_cancer.ipynb
+│   │   ├── ss_rsvm_spambase_email.ipynb
+│   │   └── ss_svm_n_times.ipynb
+│   │
+│   └── python
+│       ├── ss_rsvm.py
+│       └── utils.py
 │
 ├── README.md               # Project description
 ├── LICENSE                 # MIT License
