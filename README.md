@@ -5,7 +5,7 @@ This repository contains the experimental notebooks used for the SS-RSVM algorit
 ## Project Structure
 
 ```
-Paper_S_RSM_2026
+Paper_SS_RSVM_2026
 │
 ├── images/                 # Figures used in the paper
 │   ├── screeningrate_cancer.pdf
