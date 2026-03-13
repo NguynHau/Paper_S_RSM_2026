@@ -2,7 +2,7 @@
 
 This repository contains the experimental notebooks used for the SS-RSVM algorithm.
 
-## Repository Structure
+## Project Structure
 
 ```
 Paper_S_RSM_2026
