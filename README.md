@@ -63,7 +63,7 @@ Note: `ss_svm_n_times.ipynb` may take significantly longer to run because the ex
 
 Install the required Python packages:
 
-```bash
+``
 pip install -r requirements.txt
 ```
 
