@@ -15,13 +15,13 @@ Paper_SS_RSVM_2026
 │
 ├── src/                    
 │   ├── notebooks          # Experiment notebooks
-│   │   ├── ss_rsvm_breast_cancer.ipynb
-│   │   ├── ss_rsvm_spambase_email.ipynb
-│   │   └── ss_svm_n_times.ipynb
+│   │   ├── SS_RSVM_breast_cancer.ipynb
+│   │   ├── SS_RSVM_spambase_email.ipynb
+│   │   └── SS_RSVM_n_times.ipynb
 │   │
 │   └── python
-│       ├── ss_rsvm.py
-│       └── utils.py
+│       ├── ss_rsvm_breast_cancer.py
+│       └── ss_rsvm_spambase_email.py
 │
 ├── README.md               # Project description
 ├── LICENSE                 # MIT License
